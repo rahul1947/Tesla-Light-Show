@@ -1,8 +1,7 @@
-```
 # Tesla-Light-Show
 Collection of my custom light shows. 
 
-Instructions:
+# Instructions:
 1. Download the "LightShow" directory.
 2. Copy it in your USB drive (exFat or MSDOS format).
 3. Plug it in your tesla. 
@@ -10,11 +9,9 @@ Instructions:
    Get Out and Enjoy!
 
 
-Future Work: 
-------------
+# Future Work: 
 
 A. Main/English Tracks:
-```
 | Sr. No. | Song - Artist | Comments |
 |:-------:|:--------------|:---------|
 | 01. | Cyberpunk - Max Brhon | Comlete.|
@@ -31,10 +28,8 @@ A. Main/English Tracks:
 | 12. | Trucks In Place (Tenet) - Ludwig Göransson | TODO |
 | 13. | Best Friend - Sofi Tukker | TODO |
 
-```
 
 B. Hindi/ Bollywood Tracks:
-```
 | Sr. No. | Song - Artist | Comments |
 |:-------:|:--------------|:---------|
 | 51. | Jugnu - Badshah | TODO |
