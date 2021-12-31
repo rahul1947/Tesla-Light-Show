@@ -1,6 +1,19 @@
 ```
 # Tesla-Light-Show
 Collection of my custom light shows. 
+
+Instructions:
+1. Download the "LightShow" directory.
+2. Copy it in your USB drive (exFat or MSDOS format).
+3. Plug it in your tesla. 
+4. Toybox > Light Show > (Wait for the custom light show to load) > 
+   Get Out and Enjoy!
+
+
+Future Work: 
+------------
+
+A. Main/English Tracks:
 ```
 | Sr. No. | Song - Artist | Comments |
 |:-------:|:--------------|:---------|
@@ -19,7 +32,8 @@ Collection of my custom light shows.
 | 13. | Best Friend - Sofi Tukker | TODO |
 
 ```
-Hindi/ Bollywood Tracks:
+
+B. Hindi/ Bollywood Tracks:
 ```
 | Sr. No. | Song - Artist | Comments |
 |:-------:|:--------------|:---------|
