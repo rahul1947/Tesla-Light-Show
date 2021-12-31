@@ -29,7 +29,7 @@ A. Main/English Tracks:
 | 13. | Best Friend - Sofi Tukker | TODO |
 
 
-B. Hindi/ Bollywood Tracks:
+B. Other/Hindi Tracks:
 | Sr. No. | Song - Artist | Comments |
 |:-------:|:--------------|:---------|
 | 51. | Jugnu - Badshah | TODO |
